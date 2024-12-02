@@ -1,0 +1,32 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Directorios de compilación o empaquetado
+dist/
+build/
+.next/
+.out/
+
+# Archivos de configuración sensibles
+.env
+.env.local
+.env.*.local
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos del editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# Archivos generados por herramientas
+coverage/
+.nyc_output/
+.eslintcache
+
+# Otros
+debug.log
